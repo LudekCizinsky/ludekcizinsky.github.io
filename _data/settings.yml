@@ -1,11 +1,11 @@
 basic_settings:
-  site_title: Simples
-  site_tagline: A super simple blogging theme for Jekyll.
+  site_title: Ludek Cizinsky
+  site_tagline: Welcome to my personal webpage where you can find all info about me and my work. Feel free to discover it.
   favicon_image: /images/favicon.png
 
 header_settings:
   avatar_image: /images/avatar.jpg
-  logo_image: 
+  logo_image:
   logo_width: 200
 
 menu_settings:
