@@ -153,6 +153,7 @@ p, ul, ol {
 
 	strong {
 		font-weight: $bold-weight;
+		color: $text_dark_color;
 	}
 
 	&:first-child {
